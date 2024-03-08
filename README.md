@@ -1,0 +1,2 @@
+# generator-uzumaki
+generator-uzumaki
